@@ -1,0 +1,45 @@
+
+  body {
+    background-color: #FFC4C4;
+  }
+
+  hr {
+    border-style:  dotted none none;
+    height: 0px;
+    width: 50px;
+    border-width: 5px;
+    border-color: grey;
+  }
+
+  h1{
+    color: #66BFBF;
+  }
+  h3{
+    color: #66BFBF;
+  }
+
+  img:hover {
+    background-color: #66BFBF;
+  }
+
+/********************************************class***************************/
+  /*.computer{
+    background-color: green;
+  }
+*/
+  .circular{
+    border-radius: 100%;
+  }
+
+  .phone{
+    border-radius: 100%;
+  }
+
+  .resmim{
+    border-radius: 200%;
+  }
+/*******************************************ID*******************************/
+
+#heading{
+  color: white;
+}
